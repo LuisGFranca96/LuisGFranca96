@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Guilherme</h1>
+<h1 align="center">Luis Guilherme </h1>
 <h3 align="center">A very curious developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luisgfranca96&label=Profile%20views&color=0e75b6&style=flat" alt="luisgfranca96" /> </p>
